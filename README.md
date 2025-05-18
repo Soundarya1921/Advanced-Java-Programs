@@ -67,3 +67,14 @@ output for 6B-https://github.com/Soundarya1921/Advanced-Java-Programs/blob/main/
 
 output for 6C-https://github.com/Soundarya1921/Advanced-Java-Programs/blob/main/6a%2C6b%2C6c-Servlet%20Programs/prime.jpeg
 
+output for 7A:-Session Management using JSP-https://github.com/Soundarya1921/Advanced-Java-Programs/blob/main/7a.Session%20Management%20using%20JSP/7as.jpeg
+
+output for 7B:-Cookie Management program using JSP-https://github.com/Soundarya1921/Advanced-Java-Programs/blob/main/7b.Cookie%20Management%20program%20using%20JSP/7bs.jpeg
+
+output for 8a-https://github.com/Soundarya1921/Advanced-Java-Programs/blob/main/8a%2C8b-JDBC/select%20and%20insert.jpeg
+
+output for 8b-https://github.com/Soundarya1921/Advanced-Java-Programs/blob/main/8a%2C8b-JDBC/update.jpeg
+
+output for 8c:-JDBC-https://github.com/Soundarya1921/Advanced-Java-Programs/blob/main/8c.JDBDprogram/8cs.jpeg
+
+output for 8d:-JDBC-https://github.com/Soundarya1921/Advanced-Java-Programs/blob/main/8d.JDBCprogram/8ds.jpeg
