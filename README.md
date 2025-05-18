@@ -78,3 +78,12 @@ output for 8b-https://github.com/Soundarya1921/Advanced-Java-Programs/blob/main/
 output for 8c:-JDBC-https://github.com/Soundarya1921/Advanced-Java-Programs/blob/main/8c.JDBDprogram/8cs.jpeg
 
 output for 8d:-JDBC-https://github.com/Soundarya1921/Advanced-Java-Programs/blob/main/8d.JDBCprogram/8ds.jpeg
+
+output for 9a-https://github.com/Soundarya1921/Advanced-Java-Programs/blob/main/9a%2C9b-JDBC/delete%20(2).jpeg 
+
+output for 9b-https://github.com/Soundarya1921/Advanced-Java-Programs/blob/main/9a%2C9b-JDBC/query.jpeg
+
+output for 9c-https://github.com/Soundarya1921/Advanced-Java-Programs/blob/main/9c.JDBCprogram/9cs.jpeg
+
+output for 9dJDBC-https://github.com/Soundarya1921/Advanced-Java-Programs/blob/main/9d.JDBCprogram/9ds.jpeg
+
