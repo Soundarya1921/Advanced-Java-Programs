@@ -10,3 +10,14 @@ Output for 1B_3:-ColorSort-https://github.com/Soundarya1921/Advanced-Java-Progra
 Output for 1B_4:-ColorSubList-https://github.com/Soundarya1921/Advanced-Java-Programs/blob/main/1b.Program/Screenshot%202025-05-18%20151931.png 
 
 Output for 1B_5:-searchcolor-https://github.com/Soundarya1921/Advanced-Java-Programs/blob/main/1b.Program/Screenshot%202025-05-18%20151943.png
+
+Output for 1C_1:-LinkedListIteratorExample-https://github.com/Soundarya1921/Advanced-Java-Programs/blob/main/1c.programs/Screenshot%202025-05-18%20152548.png
+
+Output for 1C_2:-LinkedListReverseIteration-https://github.com/Soundarya1921/Advanced-Java-Programs/blob/main/1c.programs/Screenshot%202025-05-18%20152645.png
+
+Output for 1C_3:-LinkedListOfferLast-https://github.com/Soundarya1921/Advanced-Java-Programs/blob/main/1c.programs/Screenshot%202025-05-18%20152615.png
+
+Output for 1C_4:-LinkedListElementPositions-https://github.com/Soundarya1921/Advanced-Java-Programs/blob/main/1c.programs/Screenshot%202025-05-18%20152531.png
+
+Output for 1C_5:-LinkedListSwapElements-https://github.com/Soundarya1921/Advanced-Java-Programs/blob/main/1c.programs/Screenshot%202025-05-18%20152654.png
+
