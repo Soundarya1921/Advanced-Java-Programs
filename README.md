@@ -54,3 +54,9 @@ Output for 4B:-CountryButtonDemo-https://github.com/Soundarya1921/Advanced-Java-
 Output for 4C:-ImageButtonDemo-https://github.com/Soundarya1921/Advanced-Java-Programs/blob/main/4c.Program/Screenshot%202025-05-18%20142136.png
 
 Output for 5A:-CountryListDemo-https://github.com/Soundarya1921/Advanced-Java-Programs/blob/main/5a.Program/Screenshot%202025-05-18%20161910.png
+
+Output for 5B:-ColorTabbedPaneDemo-https://github.com/Soundarya1921/Advanced-Java-Programs/blob/main/5b.Program/Screenshot%202025-05-18%20010101.png
+
+Output for 5C:-CountryCapitalList-https://github.com/Soundarya1921/Advanced-Java-Programs/blob/main/5c.Program/Screenshot%202025-05-18%20162306.png
+
+Output for 5D:-ColorTabbedPaneCMY-https://github.com/Soundarya1921/Advanced-Java-Programs/blob/main/5d.Program/Screenshot%202025-05-18%20141738.png
