@@ -21,3 +21,6 @@ Output for 1C_4:-LinkedListElementPositions-https://github.com/Soundarya1921/Adv
 
 Output for 1C_5:-LinkedListSwapElements-https://github.com/Soundarya1921/Advanced-Java-Programs/blob/main/1c.programs/Screenshot%202025-05-18%20152654.png
 
+Output for 2A:-StringOperationsDemo-https://github.com/Soundarya1921/Advanced-Java-Programs/blob/main/2a.Program/Screenshot%202025-05-18%20153916.png
+
+Output for 2B:-StringBufferVsStringBuilderPerformance-https://github.com/Soundarya1921/Advanced-Java-Programs/blob/main/2b%3Eprogram/Screenshot%202025-05-18%20154221.png
