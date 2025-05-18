@@ -36,3 +36,14 @@ output for 3B_3:-ReverseStringDemo-https://github.com/Soundarya1921/Advanced-Jav
 output for 3B_4:-PalindromeChecker-https://github.com/Soundarya1921/Advanced-Java-Programs/blob/main/3b.Programs/Screenshot%202025-05-18%20154812.png 
 
 output for 3B_5:-WhitespaceRemover-https://github.com/Soundarya1921/Advanced-Java-Programs/blob/main/3b.Programs/Screenshot%202025-05-18%20154936.png
+
+Output for 3C_1:-CapitalizeWords-https://github.com/Soundarya1921/Advanced-Java-Programs/blob/main/3c.Programs/Screenshot%202025-05-18%20155801.png
+
+Output for 3C_2:-TruncateString-https://github.com/Soundarya1921/Advanced-Java-Programs/blob/main/3c.Programs/Screenshot%202025-05-18%20160013.png
+
+Output for 3C_3:-NumericCheck-https://github.com/Soundarya1921/Advanced-Java-Programs/blob/main/3c.Programs/Screenshot%202025-05-18%20155845.png
+
+Output for 3C_4:-RandomStringGenerator-https://github.com/Soundarya1921/Advanced-Java-Programs/blob/main/3c.Programs/Screenshot%202025-05-18%20155905.png 
+
+Output for 3C_5:-WordCounter-https://github.com/Soundarya1921/Advanced-Java-Programs/blob/main/3c.Programs/Screenshot%202025-05-18%20160042.png
+
