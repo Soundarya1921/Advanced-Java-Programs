@@ -24,3 +24,15 @@ Output for 1C_5:-LinkedListSwapElements-https://github.com/Soundarya1921/Advance
 Output for 2A:-StringOperationsDemo-https://github.com/Soundarya1921/Advanced-Java-Programs/blob/main/2a.Program/Screenshot%202025-05-18%20153916.png
 
 Output for 2B:-StringBufferVsStringBuilderPerformance-https://github.com/Soundarya1921/Advanced-Java-Programs/blob/main/2b%3Eprogram/Screenshot%202025-05-18%20154221.png
+
+Output for 3A:-StringOperationsDemo3a-https://github.com/Soundarya1921/Advanced-Java-Programs/blob/main/3a.Program/Screenshot%202025-05-18%20154431.png
+
+output for 3B_1:-NullOrWhitespaceCheck-https://github.com/Soundarya1921/Advanced-Java-Programs/blob/main/3b.Programs/Screenshot%202025-05-18%20154727.png
+
+output for 3B_2:-SubstringCounter-https://github.com/Soundarya1921/Advanced-Java-Programs/blob/main/3b.Programs/Screenshot%202025-05-18%20154903.png
+
+output for 3B_3:-ReverseStringDemo-https://github.com/Soundarya1921/Advanced-Java-Programs/blob/main/3b.Programs/Screenshot%202025-05-18%20154831.png
+
+output for 3B_4:-PalindromeChecker-https://github.com/Soundarya1921/Advanced-Java-Programs/blob/main/3b.Programs/Screenshot%202025-05-18%20154812.png 
+
+output for 3B_5:-WhitespaceRemover-https://github.com/Soundarya1921/Advanced-Java-Programs/blob/main/3b.Programs/Screenshot%202025-05-18%20154936.png
