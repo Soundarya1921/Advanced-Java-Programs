@@ -85,5 +85,5 @@ output for 9b-https://github.com/Soundarya1921/Advanced-Java-Programs/blob/main/
 
 output for 9c-https://github.com/Soundarya1921/Advanced-Java-Programs/blob/main/9c.JDBCprogram/9cs.jpeg
 
-output for 9dJDBC-https://github.com/Soundarya1921/Advanced-Java-Programs/blob/main/9d.JDBCprogram/9ds.jpeg
+output for 9d-https://github.com/Soundarya1921/Advanced-Java-Programs/blob/main/9d.JDBCprogram/9ds.jpeg
 
