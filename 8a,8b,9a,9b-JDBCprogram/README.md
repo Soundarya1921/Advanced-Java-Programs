@@ -1,4 +1,4 @@
 output for select and insert-https://github.com/Soundarya1921/Advanced-Java-Programs/blob/main/8a%2C8b%2C9a%2C9b-JDBCprogram/select%20and%20insert.jpeg
 output for delete-https://github.com/Soundarya1921/Advanced-Java-Programs/blob/main/8a%2C8b%2C9a%2C9b-JDBCprogram/delete.jpeg
 output for query-https://github.com/Soundarya1921/Advanced-Java-Programs/blob/main/8a%2C8b%2C9a%2C9b-JDBCprogram/query.jpeg
-output for update-
+output for update-https://github.com/Soundarya1921/Advanced-Java-Programs/blob/main/8a%2C8b%2C9a%2C9b-JDBCprogram/update.jpeg
