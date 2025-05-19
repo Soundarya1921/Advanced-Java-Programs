@@ -215,4 +215,27 @@ Output for JDBC_to_update_file - https://github.com/Soundarya1921/Advanced-Java-
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+9a. Read all the existing records from the table coffee which is from the database test and delete an existing coffee product from the table with its id and display the rest of the records using HTML and JSP to get the field and display the results respectively
+
+Ouput for MySql_delte - https://github.com/Soundarya1921/Advanced-Java-Programs/blob/main/Exp9%20-%20Database_test%20_and_Delete%20%2C%20Query%7C%7CJDBC%20project%20using%20JSP/delete%20(2).jpeg
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+9b. Read all the existing records from the table coffee which is from the database test and query coffee name starting with ‘D’ in the table using HTML and JSP to get the field and display the results respectively
+
+Ouput for MySql_Query - https://github.com/Soundarya1921/Advanced-Java-Programs/blob/main/Exp9%20-%20Database_test%20_and_Delete%20%2C%20Query%7C%7CJDBC%20project%20using%20JSP/query.jpeg
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+9c. Develop a JDBC project using MySQL to append the fields empno, empname and basicsalary into the table Emp of the database Employee by getting the fields through keyboard and Generate the report as follows for the table Emp (Emp_NO , Emp_Name, Basicsalary ) using HTML and JSP to get the field and display the results respectively
+
+Output for JDBC_to_append_fields - https://github.com/Soundarya1921/Advanced-Java-Programs/blob/main/Exp9%20-%20Database_test%20_and_Delete%20%2C%20Query%7C%7CJDBC%20project%20using%20JSP/9cs.jpeg
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+9d. Develop a JDBC project using MySQL to delete the records in the table Emp of the database Employee by getting the name starting with ‘S’ through keyboard and Generate the report as follows using HTML and JSP to get the field and display the results respectively
+
+Output for JDBC_to_delete_the_records - https://github.com/Soundarya1921/Advanced-Java-Programs/blob/main/Exp9%20-%20Database_test%20_and_Delete%20%2C%20Query%7C%7CJDBC%20project%20using%20JSP/9ds.jpeg
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
