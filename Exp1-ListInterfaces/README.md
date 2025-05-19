@@ -9,3 +9,13 @@ Output forColorSort.java - https://github.com/Soundarya1921/Advanced-Java-Progra
 Output for ColorSubList.java - https://github.com/Soundarya1921/Advanced-Java-Programs/blob/main/Exp1-ListInterfaces/Screenshot%202025-05-18%20151931.png
 
 Output for ColorRemoveByIndex.java - https://github.com/Soundarya1921/Advanced-Java-Programs/blob/main/Exp1-ListInterfaces/Screenshot%202025-05-18%20151908.png
+
+Output for LinkedListIteratorExample.java - https://github.com/Soundarya1921/Advanced-Java-Programs/blob/main/Exp1-ListInterfaces/Screenshot%202025-05-18%20152548.png
+
+Output for LinkedListReverseIteration.java - https://github.com/Soundarya1921/Advanced-Java-Programs/blob/main/Exp1-ListInterfaces/Screenshot%202025-05-18%20152645.png
+
+Output for LinkedListOfferLast.java - https://github.com/Soundarya1921/Advanced-Java-Programs/blob/main/Exp1-ListInterfaces/Screenshot%202025-05-18%20152615.png
+
+Output for LinkedListElementPositions.java - https://github.com/Soundarya1921/Advanced-Java-Programs/blob/main/Exp1-ListInterfaces/Screenshot%202025-05-18%20152531.png
+
+Output for LinkedListSwapElements.java - https://github.com/Soundarya1921/Advanced-Java-Programs/blob/main/Exp1-ListInterfaces/Screenshot%202025-05-18%20152654.png
