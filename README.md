@@ -3,7 +3,7 @@
 
 Output for ListOperations.java - https://github.com/Soundarya1921/Advanced-Java-Programs/blob/main/Exp1-ListInterfaces/Screenshot%202025-05-18%20151428.png
 
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 1b. Array List programs
 
@@ -51,25 +51,25 @@ Output for LinkedListElementPositions.java - https://github.com/Soundarya1921/Ad
 
 Output for LinkedListSwapElements.java - https://github.com/Soundarya1921/Advanced-Java-Programs/blob/main/Exp1-ListInterfaces/Screenshot%202025-05-18%20152654.png
 
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 2 a. Develop a java program for performing various string operations with different string handling functions directed as follows String Creation and Basic Operations, Length and Character Access, String Comparison, String Searching, Substring Operations , String Modification, Whitespace Handling, String Concatenation, String Splitting, StringBuilder Demo, String Formatting , Validate Email with contains( ) and startsWith() and endsWith()
 
 Output for StringOperationsDemo.java - https://github.com/Soundarya1921/Advanced-Java-Programs/blob/main/Exp2-StringOperations/Screenshot%202025-05-18%20153916.png
 
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 2.b. Develop a Java program to make a Performance Test on StringBuffer and StringBuilder for appending the string ‘AIET’ for 10000 times both in the StringBuffer and StringBuilder. Justify your answer which one is better.
 
 Output for StringBufferVsStringBuilderPerformance.java - https://github.com/Soundarya1921/Advanced-Java-Programs/blob/main/Exp2-StringOperations/Screenshot%202025-05-18%20154221.png
 
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 3a. Develop a java program for performing various string operations with different string handling functions directed as follows: String Creation and Basic Operations, Length and Character Access, String Comparison, StringSearching, Substring Operations , String Modification, Whitespace Handling, String Concatenation, String Splitting, StringBuilder Demo, String Formatting , Validate Email with contains( ) and startsWith() and endsWith()
 
 Output for StringOperationsDemo3a.java - https://github.com/Soundarya1921/Advanced-Java-Programs/blob/main/Exp3%20-%20StringHandling_and_StringExercise/Screenshot%202025-05-18%20154431.png
 
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 3b. String Exercise progams 
 Q1. Write a Java Program for Checking if a given string is null or contains only whitespace using user defined function isNullOrEmpty().
@@ -92,5 +92,28 @@ Q5. Write a Java Program for Eliminating all whitespace characters from a string
 
 Output for WhitespaceRemover.java - https://github.com/Soundarya1921/Advanced-Java-Programs/blob/main/Exp3%20-%20StringHandling_and_StringExercise/Screenshot%202025-05-18%20154936.png
 
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+3c. String Exercise progams 
+Q6. Write a Java Program for Capitalizing the first letter of each word. using user defined functioncapitalizeWords()
+
+Output for CapitalizeWords.java - https://github.com/Soundarya1921/Advanced-Java-Programs/blob/main/Exp3%20-%20StringHandling_and_StringExercise/Screenshot%202025-05-18%20155801.png
+
+Q7. Write a Java Program for Shortening a string to a specified length and adds an ellipsis using user defined function truncate()
+
+Output for TruncateString.java - https://github.com/Soundarya1921/Advanced-Java-Programs/blob/main/Exp3%20-%20StringHandling_and_StringExercise/Screenshot%202025-05-18%20160013.png
+
+Q8. Write a Java Program for Verifying if a string contains only numeric characters using user defined function isNumeric()
+
+Output for NumericCheck.java - https://github.com/Soundarya1921/Advanced-Java-Programs/blob/main/Exp3%20-%20StringHandling_and_StringExercise/Screenshot%202025-05-18%20155845.png
+
+Q9. Write a Java Program for Creating a random string of a specified length using user defined function generateRandomString()
+
+Output for RandomStringGenerator.java - https://github.com/Soundarya1921/Advanced-Java-Programs/blob/main/Exp3%20-%20StringHandling_and_StringExercise/Screenshot%202025-05-18%20155905.png
+
+Q10. Write a Java Program for Counting the number of words in a string using user defined function countWords()
+
+Output for WordCounter.java - https://github.com/Soundarya1921/Advanced-Java-Programs/blob/main/Exp3%20-%20StringHandling_and_StringExercise/Screenshot%202025-05-18%20160042.png
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
