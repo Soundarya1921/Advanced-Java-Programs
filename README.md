@@ -1,4 +1,7 @@
 # Advanced-Java-Programs
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 1.a Develop a Java program for adding elements [Apple, Banana, Orange] into an ArrayList and a LinkedList to perform the following operations with different functions directed as follows 1. Adding elements, 2. Adding element at specific index, 3. Adding multiple elements, 4. Accessing elements,5. Updating elements, 6. Removing elements, 7. Searching elements, 8. List size, 9. Iterating over list, 10. Using Iterator, 11. Sorting, 12. Sublist, 13. Clearing the list
 
 Output for ListOperations.java - https://github.com/Soundarya1921/Advanced-Java-Programs/blob/main/Exp1-ListInterfaces/Screenshot%202025-05-18%20151428.png
@@ -217,13 +220,13 @@ Output for JDBC_to_update_file - https://github.com/Soundarya1921/Advanced-Java-
 
 9a. Read all the existing records from the table coffee which is from the database test and delete an existing coffee product from the table with its id and display the rest of the records using HTML and JSP to get the field and display the results respectively
 
-Ouput for MySql_delte - https://github.com/Soundarya1921/Advanced-Java-Programs/blob/main/Exp9%20-%20Database_test%20_and_Delete%20%2C%20Query%7C%7CJDBC%20project%20using%20JSP/9a.DatabaseTest%20_and_Delete/delete%20(2).jpeg
+Ouput for MySql_delete - https://github.com/Soundarya1921/Advanced-Java-Programs/blob/main/Exp9%20-%20Database_test%20_and_Delete%20%2C%20Query%7C%7CJDBC%20project%20using%20JSP/9a.DatabaseTest%20_and_Delete/Screenshot%202025-05-20%20210102.png
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 9b. Read all the existing records from the table coffee which is from the database test and query coffee name starting with ‘D’ in the table using HTML and JSP to get the field and display the results respectively
 
-Ouput for MySql_Query - https://github.com/Soundarya1921/Advanced-Java-Programs/blob/main/Exp9%20-%20Database_test%20_and_Delete%20%2C%20Query%7C%7CJDBC%20project%20using%20JSP/9b.DatabaseTest%20_and_Query/query.jpeg
+Ouput for MySql_Query - https://github.com/Soundarya1921/Advanced-Java-Programs/blob/main/Exp9%20-%20Database_test%20_and_Delete%20%2C%20Query%7C%7CJDBC%20project%20using%20JSP/9b.DatabaseTest%20_and_Query/Screenshot%202025-05-20%20210126.png
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
