@@ -1,5 +1,4 @@
-//Q10. Write a Java Program for Counting the number of words in a string using user defined function
-//countWords()
+//3c_Q10. Write a Java Program for Counting the number of words in a string using user defined function countWords()
 
 package stringex3c;
 import java.util.Scanner;
