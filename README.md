@@ -163,19 +163,19 @@ Output for ColorTabbedPaneCMY.java - https://github.com/Soundarya1921/Advanced-J
 
 6a. Build a servlet program to find the factorial of a number using HTML with step by stepprocedure.
 
-output for Factorial - https://github.com/Soundarya1921/Advanced-Java-Programs/blob/main/Exp6%20-%20ServletProgram/6aA.jpeg
+output for Factorial - https://github.com/Soundarya1921/Advanced-Java-Programs/blob/main/Exp6%20-%20ServletProgram/6a.Factorial/6aA.jpeg
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 6b. Build a servlet program to create a cookie to get your name through text box and press submit button( through HTML) to display the message by greeting Welcome back your name ! , you have visited this page n times ( n = number of your visit ) and demonstrate the expiry of cookie also.
 
-Output for Cookie - https://github.com/Soundarya1921/Advanced-Java-Programs/blob/main/Exp6%20-%20ServletProgram/6bs.jpeg
+Output for Cookie - https://github.com/Soundarya1921/Advanced-Java-Programs/blob/main/Exp6%20-%20ServletProgram/6b.Cookie/6bs.jpeg
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 6c. Build a servlet program to check the given number is prime number or not using HTML with step by step procedure.
 
-Output for Prime - https://github.com/Soundarya1921/Advanced-Java-Programs/blob/main/Exp6%20-%20ServletProgram/prime.jpeg
+Output for Prime - https://github.com/Soundarya1921/Advanced-Java-Programs/blob/main/Exp6%20-%20ServletProgram/6c.Prime/prime.jpeg
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -193,25 +193,25 @@ output for Cookie - https://github.com/Soundarya1921/Advanced-Java-Programs/blob
 
 8a. Q1. Read all the existing records from the table coffee which is from the database test and insert a new coffee product into it [Create a table coffee with fields ( id,coffee_name,price)] using HTML and JSP to get the fields and display the results respectively
 
-Ouput for MySql_insert - https://github.com/Soundarya1921/Advanced-Java-Programs/blob/main/Exp8%20-%20Database_test%20_and_insert%20%2C%20update%20%7C%7CJDBC%20project%20using%20JSP/select%20and%20insert.jpeg
+Ouput for MySql_insert - https://github.com/Soundarya1921/Advanced-Java-Programs/blob/main/Exp8%20-%20Database_test%20_and_insert%20%2C%20update%20%7C%7CJDBC%20project%20using%20JSP/8a.%20DatabaseTest%20_and_insert/select%20and%20insert.jpeg
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 8b. Read all the existing records from the table coffee which is from the database test and update an existing coffee product in the table with its id. [Create a table coffee with fields ( id,coffee_name,price)] using HTML and JSP to get the fields and display the results respectively
 
-Ouput for MySql_update - https://github.com/Soundarya1921/Advanced-Java-Programs/blob/main/Exp8%20-%20Database_test%20_and_insert%20%2C%20update%20%7C%7CJDBC%20project%20using%20JSP/update.jpeg
+Ouput for MySql_update - https://github.com/Soundarya1921/Advanced-Java-Programs/blob/main/Exp8%20-%20Database_test%20_and_insert%20%2C%20update%20%7C%7CJDBC%20project%20using%20JSP/8b.%20DatabaseTest%20_and_update/update.jpeg
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 8c. Develop a JDBC project using JSP to append the fields empno, empname and basicsalary into the table Emp of the database Employee by getting the fields through keyboard and Generate the report as follows for the TABLE Emp (Emp_NO , Emp_Name, Basicsalary ) using HTML and JSP to get the fields and display the results respectively
 
-Output for JDBC_to_append_file - https://github.com/Soundarya1921/Advanced-Java-Programs/blob/main/Exp8%20-%20Database_test%20_and_insert%20%2C%20update%20%7C%7CJDBC%20project%20using%20JSP/8cs.jpeg
+Output for JDBC_to_append_file - https://github.com/Soundarya1921/Advanced-Java-Programs/blob/main/Exp8%20-%20Database_test%20_and_insert%20%2C%20update%20%7C%7CJDBC%20project%20using%20JSP/8c.JDBCproject_using_JSP/8cs.jpeg
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 8d. Develop a JDBC project using JDBC to update the fields empno, empname and basicsalary into the table Emp of the database Employee using HTML and JSP to get the fields and display the results respectively
 
-Output for JDBC_to_update_file - https://github.com/Soundarya1921/Advanced-Java-Programs/blob/main/Exp8%20-%20Database_test%20_and_insert%20%2C%20update%20%7C%7CJDBC%20project%20using%20JSP/8ds.jpeg
+Output for JDBC_to_update_file - https://github.com/Soundarya1921/Advanced-Java-Programs/blob/main/Exp8%20-%20Database_test%20_and_insert%20%2C%20update%20%7C%7CJDBC%20project%20using%20JSP/8d.JDBCproject_using_JSP/8ds.jpeg
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
