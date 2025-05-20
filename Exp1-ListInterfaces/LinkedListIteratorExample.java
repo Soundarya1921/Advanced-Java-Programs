@@ -1,5 +1,4 @@
-//1. Write a Java program to iterate through all elements in a linked list starting at the
-//specified position ( 2nd) using iterator ( hint : Iterator iteratorobj = listobj.listIterator(1))
+//1c_1. Write a Java program to iterate through all elements in a linked list starting at the specified position ( 2nd) using iterator ( hint : Iterator iteratorobj = listobj.listIterator(1))
 
 package linkedlist;
 import java.util.LinkedList;
