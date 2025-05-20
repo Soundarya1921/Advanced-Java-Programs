@@ -1,4 +1,4 @@
-//6.Write a java program for getting different colors through ArrayList interface and delete nth element from the ArrayList object by using remove by index
+//1b_6.Write a java program for getting different colors through ArrayList interface and delete nth element from the ArrayList object by using remove by index
 
 package arraylist;
 import java.util.ArrayList;
