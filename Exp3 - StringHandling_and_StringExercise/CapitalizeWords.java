@@ -1,5 +1,4 @@
-//Q6. Write a Java Program for Capitalizing the first letter of each word. using user defined function
-//capitalizeWords()
+//3c_Q6. Write a Java Program for Capitalizing the first letter of each word. using user defined function capitalizeWords()
 
 package stringex3c;
 import java.util.Scanner;
